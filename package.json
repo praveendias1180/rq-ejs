@@ -10,5 +10,9 @@
     "range-quest"
   ],
   "author": "Praveen Dias",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3"
+  }
 }
